@@ -24,11 +24,11 @@ public class Main {
         byte bb = 100;
 
 
-        for (int j = 0; j < 5; j += 2) {
-            // System.out.println(">>> j: " + j);
-        }
-        System.out.println("=========");
-        int y = 0;
+//        for (int j = 0; j < 5; j += 2) {
+//             System.out.println(">>> j: " + j);
+//        }
+//        System.out.println("=========");
+//        int y = 0;
 
 //        do {
 //            if (y % 2 == 0) {
