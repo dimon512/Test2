@@ -5,7 +5,7 @@ public class Main {
     public static void main(String[] args) {
         //new Main().entryPoint(args);
 
-        new Task1().resolve(1, 2, 3);
+        new Task1().resolve(0, 0, 0);
     }
 
     public void entryPoint(String[] args) {
